@@ -24,6 +24,8 @@ namespace Queue_Example_10202015
 
             QueueMethod(queue1);
 
+            Console.WriteLine("Press a key to exit program.");
+
             Console.ReadKey();
         }
 
